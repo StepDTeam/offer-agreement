@@ -256,4 +256,4 @@
 - адрес: `359410, РОССИЯ, РЕСП КАЛМЫКИЯ, САРПИНСКИЙ РН, С САДОВОЕ, УЛ ДЗЕРЖИНСКОГО, Д 10, КВ 1`
 - e-mail: `dsteputenkov@repliner.ru`
 - сайт/страница сервиса: `https://t.me/Repliner_Bot`
-- URL оферты: `[[URL_OFFER]]`
+- URL оферты: `https://stepdteam.github.io/offer-agreement/`
